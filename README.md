@@ -2,7 +2,7 @@
 
 This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and Tailwind CSS**.
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://mohammednayeem9.github.io/Tailwind-CSS-Portfolio/">**Visit Now** 🚀</a>
 
 <br>
 
