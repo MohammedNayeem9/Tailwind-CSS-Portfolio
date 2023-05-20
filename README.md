@@ -21,4 +21,3 @@ This is my Portfolio Website which consist of my **latest work, projects and blo
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Nayeem Mohammed](https://www.linkedin.com/in/)
