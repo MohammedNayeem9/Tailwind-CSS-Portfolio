@@ -17,7 +17,7 @@ This is my Portfolio Website which consist of my **latest work, projects and blo
 
 <br>
 
-![Screenshot](./images/screenshot.png?raw=true "Template Screenshot")
+![Screenshot](./images/portfolio_overview.png?raw=true "Template Screenshot")
 
 ## 📬 Connect With Me
 
